@@ -1,0 +1,20 @@
+.App {
+  text-align: left;
+  .bg-light {
+    background-color: lightblue !important;
+  }
+
+  .card {
+    margin-top: 10px;
+    padding: 10px;
+  }
+  
+  .add-icon {
+    cursor: pointer;
+  }
+
+  .answer {
+    margin-left: 10px
+  }
+}
+
